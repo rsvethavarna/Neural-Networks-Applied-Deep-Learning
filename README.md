@@ -332,6 +332,4 @@ Steps:
 * Regularization fights overfitting
 * CNN → images | RNN → sequences
 
----
 
-### THIS DOCUMENT = FULL DEEP LEARNING FIREPOWER
